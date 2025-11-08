@@ -48,6 +48,8 @@ url: https://Dumeng-cong.github.io # **重要：GitHub Pages网站地址**
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "" # 对于用户页面（yourusername.github.io），这里保持为空
+baseurl: "/Dumeng-cong.github.io"
+
 
 #
 # !! You don't need to change any of the configuration flags below !!
